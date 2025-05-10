@@ -41,5 +41,5 @@ A modern, full-stack e-commerce platform with product submission and management 
 - Express.js
 - MongoDB (with Mongoose)
 
-
+Loom video:- https://www.loom.com/share/487a52513aec4e7b82fdc4fb2caf873f?sid=df6958c0-0f64-4827-856f-43142cc673d2
 
