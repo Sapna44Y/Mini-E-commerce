@@ -41,9 +41,5 @@ A modern, full-stack e-commerce platform with product submission and management 
 - Express.js
 - MongoDB (with Mongoose)
 
-## Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-platform.git
-   cd ecommerce-platform
+
