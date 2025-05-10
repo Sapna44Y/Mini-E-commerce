@@ -1,5 +1,17 @@
 # Environment files
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/build
+
+# Secret
+
 .env
 .env.local
 .env.development
 .env.production
+
